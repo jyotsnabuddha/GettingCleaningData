@@ -16,4 +16,8 @@ The work submitted for this project is the work of the student who submitted it.
 5.Wrote the cleaned data set into the FinalData file
 6.The file "FinalDataMeans" contains the means of the variables grouped by subject and activity .
 
+#Require Packages 
+
+plyr
+dplyr
 
